@@ -1,4 +1,4 @@
-# DevOps Chats
+# Cool Chats
 
 Repository for information about cool chats and other friendly chats in Telegram & other messangers.
 
